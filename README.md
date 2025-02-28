@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meena S!</h1>
 <h3 align="center">🚀 Mobile App Developer | Product Analyst | Co-founder of Stupro</h3>
 
-💡 **Co-founder at Stupro**, building powerful applications using **React Native & Spring Boot**.  
-📱 Experienced **Mobile App Developer** skilled in **Flutter, Java, AWS, and MongoDB**.  
-⚡ Passionate about **full-stack development, UI/UX design, and cloud-based solutions**.  
+💡 **Co-founder at Stupro**, currently **developing a mobile app product** using **React Native & Spring Boot**.  
+📱 **Intern at MentorBridge**, gaining valuable experience in **tech-driven mentorship platforms**.  
+⚡ Passionate about **application development, UI/UX design, and cloud-based solutions**.  
 🎯 **Interned at Accent Techno Soft**, where I **developed the UI for a Tour Guide App** using Flutter.  
 
 ---
@@ -41,13 +41,15 @@
 ---
 
 ## 🚀 Experience  
-🔹 **Co-founder & Product Analyst at Stupro** – Led **React Native & Spring Boot development**, optimizing UI/UX and backend architecture.  
+🔹 **Co-founder & Product Analyst at Stupro** – **Developing a mobile app product** using **React Native & Spring Boot**, optimizing UI/UX and backend architecture.  
+🔹 **Intern at MentorBridge** – Working on **tech-driven mentorship platforms** and **enhancing product usability**.  
 🔹 **Flutter Developer Intern at Accent Techno Soft** – **Developed the UI for a Tour Guide App** using Flutter.  
 
 ---
 
 ## 📌 Projects  
 🌀 **[Weather App](https://github.com/your-username/weather-app)** – **Java-based** real-time weather updates using **WeatherAPI, GPS, Picasso, and Volley**.  
+📸 **[Instagram Clone](https://github.com/your-username/instagram-clone)** – **Built with Flutter & Firebase**, allowing users to post, like, and comment just like Instagram.  
 🌍 **[Tour Guide App](https://github.com/your-username/tour-guide)** – **Flutter app** allowing users to **share locations, upload images, and add descriptions**.  
 🚀 **[Stupro](https://github.com/your-username/stupro)** – Full-stack **React Native & Spring Boot** project with **MongoDB and AWS integration**.  
 
