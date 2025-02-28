@@ -48,21 +48,10 @@
 ---
 
 ## 📌 Projects  
-🌀 **[Weather App](https://github.com/your-username/weather-app)** – **Java-based** real-time weather updates using **WeatherAPI, GPS, Picasso, and Volley**.  
-📸 **[Instagram Clone](https://github.com/your-username/instagram-clone)** – **Built with Flutter & Firebase**, allowing users to post, like, and comment just like Instagram.  
+🌀 **[Weather App](https://github.com/MeenaSivakumar/WeatherApp)** – **Java-based** real-time weather updates using **WeatherAPI, GPS, Picasso, and Volley**.  
+📸 **[Instagram Clone](https://github.com/MeenaSivakumar/instaclone)** – **Built with Flutter & Firebase**, allowing users to post, like, and comment just like Instagram.  
 🌍 **[Tour Guide App](https://github.com/your-username/tour-guide)** – **Flutter app** allowing users to **share locations, upload images, and add descriptions**.  
-🚀 **[Stupro](https://github.com/your-username/stupro)** – Full-stack **React Native & Spring Boot** project with **MongoDB and AWS integration**.  
 
----
-
-## 🎓 Education & Certifications  
-🎓 **B.E. CSE, Anna University (2025) – 8.0 GPA**  
-📜 **Certifications:**  
-✅ **Android App Development** – Simplilearn  
-✅ **App Development using Java** – NSIC  
-✅ **Flutter Mobile App Development** – Accent Techno Soft  
-
----
 
 ## 🔗 Let's Connect!  
 <p align="center">
